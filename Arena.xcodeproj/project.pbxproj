@@ -37,6 +37,8 @@
 		E26623C716B025B000DEAB3B /* CoreVideo.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E26623C216B0259D00DEAB3B /* CoreVideo.framework */; };
 		E26623C916B0268200DEAB3B /* libiconv.2.4.0.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = E26623C816B0268100DEAB3B /* libiconv.2.4.0.dylib */; };
 		E26623CA16B026D200DEAB3B /* libzbar.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E26623B216B0246500DEAB3B /* libzbar.a */; };
+		E2B007FC16B04920007EDC4C /* Arena_Logo_114x114.png in Resources */ = {isa = PBXBuildFile; fileRef = E2B007FB16B04920007EDC4C /* Arena_Logo_114x114.png */; };
+		E2B007FE16B04925007EDC4C /* Arena_Logo_57x57.png in Resources */ = {isa = PBXBuildFile; fileRef = E2B007FD16B04925007EDC4C /* Arena_Logo_57x57.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -144,6 +146,8 @@
 		E26623C216B0259D00DEAB3B /* CoreVideo.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreVideo.framework; path = System/Library/Frameworks/CoreVideo.framework; sourceTree = SDKROOT; };
 		E26623C416B025A100DEAB3B /* CoreMedia.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreMedia.framework; path = System/Library/Frameworks/CoreMedia.framework; sourceTree = SDKROOT; };
 		E26623C816B0268100DEAB3B /* libiconv.2.4.0.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libiconv.2.4.0.dylib; path = "../mixare-iphone/Classes/extensions/datainputs/ZBarSDK/libiconv.2.4.0.dylib"; sourceTree = "<group>"; };
+		E2B007FB16B04920007EDC4C /* Arena_Logo_114x114.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Arena_Logo_114x114.png; sourceTree = "<group>"; };
+		E2B007FD16B04925007EDC4C /* Arena_Logo_57x57.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Arena_Logo_57x57.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -172,6 +176,8 @@
 		E26622FF16B0179A00DEAB3B = {
 			isa = PBXGroup;
 			children = (
+				E2B007FD16B04925007EDC4C /* Arena_Logo_57x57.png */,
+				E2B007FB16B04920007EDC4C /* Arena_Logo_114x114.png */,
 				E266232B16B0191800DEAB3B /* Mixare.xcodeproj */,
 				E266231416B0179B00DEAB3B /* Arena */,
 				E266230D16B0179B00DEAB3B /* Frameworks */,
@@ -451,6 +457,8 @@
 				E26623BC16B0246500DEAB3B /* zbar-help.html in Resources */,
 				E26623BD16B0246500DEAB3B /* zbar-helpicons.png in Resources */,
 				E26623BE16B0246500DEAB3B /* zbar-samples.png in Resources */,
+				E2B007FC16B04920007EDC4C /* Arena_Logo_114x114.png in Resources */,
+				E2B007FE16B04925007EDC4C /* Arena_Logo_57x57.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
