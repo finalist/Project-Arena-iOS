@@ -61,10 +61,10 @@
 
 - (void)reuse {
     [mainClass showHud];
-    [self performSelectorInBackground:@selector(openAR) withObject:nil];
+    [self performSelectorInBackground:@selector(openView) withObject:nil];
 }
 
-- (void)openAR {
+- (void)openView {
     [mainClass refresh];
     [mainClass openARView];
     [mainClass closeHud];

@@ -140,7 +140,7 @@
 		E2B0086A16B14DDA007EDC4C /* ZBarReaderViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZBarReaderViewController.h; sourceTree = "<group>"; };
 		E2B0086B16B14DDA007EDC4C /* ZBarSDK.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZBarSDK.h; sourceTree = "<group>"; };
 		E2B0086C16B14DDA007EDC4C /* ZBarSymbol.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZBarSymbol.h; sourceTree = "<group>"; };
-		E2B0086D16B14DDA007EDC4C /* libiconv.2.4.0.dylib */ = {isa = PBXFileReference; lastKnownFileType = file; path = libiconv.2.4.0.dylib; sourceTree = "<group>"; };
+		E2B0086D16B14DDA007EDC4C /* libiconv.2.4.0.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; path = libiconv.2.4.0.dylib; sourceTree = "<group>"; };
 		E2B0086E16B14DDA007EDC4C /* libzbar.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libzbar.a; sourceTree = "<group>"; };
 		E2B0087016B14DDA007EDC4C /* zbar-back.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "zbar-back.png"; sourceTree = "<group>"; };
 		E2B0087116B14DDA007EDC4C /* zbar-help.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = "zbar-help.html"; sourceTree = "<group>"; };
